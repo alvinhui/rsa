@@ -9,7 +9,7 @@ gallery/rsa/1.0/index
 */
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module jsbn
  **/
 KISSY.add('gallery/rsa/1.0/jsbn',function (S) {
@@ -1236,7 +1236,7 @@ KISSY.add('gallery/rsa/1.0/jsbn',function (S) {
 });
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module prng4
  **/
 KISSY.add('gallery/rsa/1.0/prng4',function (S) {  
@@ -1286,7 +1286,7 @@ KISSY.add('gallery/rsa/1.0/prng4',function (S) {
 });
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module rng
  **/
 KISSY.add('gallery/rsa/1.0/rng',function (S, prng_newstate) {
@@ -1376,7 +1376,7 @@ KISSY.add('gallery/rsa/1.0/rng',function (S, prng_newstate) {
 ]});
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module rsa
  **/
 KISSY.add('gallery/rsa/1.0/index',function (S, BigInteger, SecureRandom) {

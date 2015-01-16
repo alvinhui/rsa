@@ -1,6 +1,6 @@
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module rsa
  **/
 KISSY.add(function (S, BigInteger, SecureRandom) {

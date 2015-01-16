@@ -7,7 +7,7 @@ gallery/rsa/1.0/rng
 */
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module prng4
  **/
 KISSY.add('gallery/rsa/1.0/prng4',function (S) {  
@@ -57,7 +57,7 @@ KISSY.add('gallery/rsa/1.0/prng4',function (S) {
 });
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module rng
  **/
 KISSY.add('gallery/rsa/1.0/rng',function (S, prng_newstate) {

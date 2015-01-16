@@ -6,7 +6,7 @@ gallery/rsa/1.0/jsbn
 */
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module jsbn
  **/
 KISSY.add('gallery/rsa/1.0/jsbn',function (S) {

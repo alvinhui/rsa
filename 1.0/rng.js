@@ -1,6 +1,6 @@
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module rng
  **/
 KISSY.add(function (S, prng_newstate) {

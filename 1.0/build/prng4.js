@@ -6,7 +6,7 @@ gallery/rsa/1.0/prng4
 */
 /**
  * @fileoverview 
- * @author 梧忌 <wuji.xwt@alibaba-inc.com>
+ * @author Alvin <alvinxu@outlook.com>
  * @module prng4
  **/
 KISSY.add('gallery/rsa/1.0/prng4',function (S) {  
